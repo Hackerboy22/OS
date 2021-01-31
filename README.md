@@ -1,4 +1,4 @@
-# OS
+# SERVEROS
 A simple OS!
 
 _Only works in linux enviroment._
