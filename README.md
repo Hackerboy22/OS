@@ -10,15 +10,9 @@ _Only works in linux enviroment._
 
 3. Type `bash main.sh`
 
-### __Instructions:__
-1. Unzip OS.zip
+4. In the new terminal, type `bash$ sudo apt install python`.
 
-2. run main.sh
-
-3. In the new terminal, type `bash$ sudo apt install python`.
-
-4. Install Packages.gz (Will install R enviroment)!
-
+5. Install Packages.gz (Will install R enviroment)!
 
 ### __Commands:__
 _Data_: Runs an R Script.
